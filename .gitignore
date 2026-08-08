@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+.venv/
+
+# Chroma vector database
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS junk
+.DS_Store
+
+# Environment variables (if you ever add API keys)
+.env
